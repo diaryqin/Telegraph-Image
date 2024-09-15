@@ -1,0 +1,9 @@
+name = "cloudflare-imgbed"
+compatibility_date = "2024-07-24"
+
+[vars]
+AllowRandom = "true"
+BASIC_USER = "user"
+BASIC_PASS = "pass"
+TG_BOT_TOKEN = "7104555906:AAGB8880MihHtkse9pbReuFGOP4O-mNz8oM"
+TG_CHAT_ID = "-1002425505306"
